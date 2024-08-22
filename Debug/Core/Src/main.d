@@ -27,15 +27,15 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
- C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/FreeRTOS.h \
+ C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/FreeRTOS.h \
  C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/main_app/include/FreeRTOSConfig.h \
- C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/projdefs.h \
- C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/portable.h \
- C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/deprecated_definitions.h \
- C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/portmacro.h \
- C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/mpu_wrappers.h \
- C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/task.h \
- C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/list.h
+ C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/projdefs.h \
+ C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/portable.h \
+ C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/deprecated_definitions.h \
+ C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/portable/GCC/ARM_CM4F/portmacro.h \
+ C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/mpu_wrappers.h \
+ C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/task.h \
+ C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/list.h
 ../Core/Inc/main.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
 ../Core/Inc/stm32f4xx_hal_conf.h:
@@ -65,12 +65,12 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h:
-C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/FreeRTOS.h:
+C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/FreeRTOS.h:
 C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/main_app/include/FreeRTOSConfig.h:
-C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/projdefs.h:
-C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/portable.h:
-C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/deprecated_definitions.h:
-C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/portmacro.h:
-C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/mpu_wrappers.h:
-C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/task.h:
-C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS-Kernel/include/list.h:
+C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/projdefs.h:
+C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/portable.h:
+C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/deprecated_definitions.h:
+C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/portable/GCC/ARM_CM4F/portmacro.h:
+C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/mpu_wrappers.h:
+C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/task.h:
+C:/Users/axell/Documents/Proyectos\ STM/Workspace_Ophyra/PruebaRTOS/FreeRTOS_Kernel/include/list.h:
